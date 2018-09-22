@@ -34,8 +34,8 @@ fact, I now do not even have to care if I will ever complete the book, as long
 as it provides me value as a tool.
 
 To cite just one example, recently I wanted to learn about algorithms and data
-structures. So instead of working my way through books; I picked up [this book]
-(http://www.amazon.com/Introduction-Design-Analysis-Algorithms-2nd/dp/0321358287),
+structures. So instead of working my way through books; I picked up [this
+book](http://www.amazon.com/Introduction-Design-Analysis-Algorithms-2nd/dp/0321358287),
 and understood the concepts. Just the first 2 chapters sufficed. Next I chose
 to actually [find applications where algorithms are
 important](http://www.itasoftware.com/careers/puzzle_archive.html) part of the
