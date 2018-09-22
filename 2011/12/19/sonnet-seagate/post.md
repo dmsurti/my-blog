@@ -1,3 +1,5 @@
+![](sonnet-seagate.jpg)
+
 I have 3 Seagate GoFlex drives as described below.
 
 ![](table-1.png)

@@ -1,3 +1,5 @@
+![](hard-to-read-code.jpg)
+
 I came across [this piece by
 Joel](http://www.joelonsoftware.com/articles/fog0000000069.html), where he says
 "It's harder to read code than to write it".

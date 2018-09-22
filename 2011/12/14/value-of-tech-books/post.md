@@ -1,3 +1,5 @@
+![](books.jpg)
+
 I have discovered that I used to over estimate the value that books bring to
 the table, whenever I have tried to learn a new skill or a new tool.
 
