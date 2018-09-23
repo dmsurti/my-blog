@@ -48,3 +48,13 @@ Conventions
 
   Use the -v flag for verbose output of the post metadata
   ```
+
+Python Utility
+---
+
+The python module `post.py` generates a post pdf content using `Pandoc`.
+
+A [conda](https://conda.io/docs/user-guide/overview.html) environment defined
+in `environment.yml` must be used to
+[create](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)
+an environment as per these requirements to execute/modify this python module.
