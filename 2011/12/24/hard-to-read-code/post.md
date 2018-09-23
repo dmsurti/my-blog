@@ -1,18 +1,3 @@
----
-header-includes:
-  - \hypersetup{colorlinks=false,
-            allbordercolors={0 0 0},
-            pdfborderstyle={/S/U/W 1}}
----
-
-# It's probably harder to read code than to write
-
-### 12/24/2011
-
-#### Deepak Surti, deepaksurti.com
-
-![](hard-to-read-code.jpg)
-
 I came across [this piece by
 Joel](http://www.joelonsoftware.com/articles/fog0000000069.html), where he says
 "It's harder to read code than to write it".

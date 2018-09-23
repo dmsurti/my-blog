@@ -1,18 +1,3 @@
----
-header-includes:
-  - \hypersetup{colorlinks=false,
-            allbordercolors={0 0 0},
-            pdfborderstyle={/S/U/W 1}}
----
-
-# Sonnet USB 3.0 Express Card/34 and Seagate GoFlex Drives
-
-### 12/19/2011
-
-#### Deepak Surti, deepaksurti.com
-
-![](sonnet-seagate.jpg)
-
 I have 3 Seagate GoFlex drives as described below.
 
 ![](table-1.png)

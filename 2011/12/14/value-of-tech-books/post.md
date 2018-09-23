@@ -1,18 +1,3 @@
----
-header-includes:
-  - \hypersetup{colorlinks=false,
-            allbordercolors={0 0 0},
-            pdfborderstyle={/S/U/W 1}}
----
-
-# The right value of technical books
-
-### 12/14/2011
-
-#### Deepak Surti, deepaksurti.com
-
-![](books.jpg)
-
 I have discovered that I used to over estimate the value that books bring to
 the table, whenever I have tried to learn a new skill or a new tool.
 
